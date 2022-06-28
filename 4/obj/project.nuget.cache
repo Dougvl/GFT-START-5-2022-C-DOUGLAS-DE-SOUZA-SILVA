@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOcwIKzqbPnzQjxwJ5wQ+oxBl3W7+TN7K0hTLkfpWqyxESUDl6Esdv6en38YIxNbtydkFQZGuvMUTjcnWpPXTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dougl\\Desktop\\Gftstarter5\\Exercicio4\\Exercicio4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dougl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
